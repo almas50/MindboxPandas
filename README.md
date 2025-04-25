@@ -1,1 +1,5 @@
-# MindboxPandas
+# Run 
+
+``` 
+python main.py
+```
